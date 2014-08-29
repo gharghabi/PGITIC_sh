@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/qtcreator-build/devel
+
+Name: upperbodycore
+Description: Description of upperbodycore
+Version: 0.0.1
+Cflags: -I/home/shaghayegh/catkin_ws/src/upperbodycore/include
+Libs: -L/home/shaghayegh/catkin_ws/qtcreator-build/devel/lib 
+Requires: message_runtime

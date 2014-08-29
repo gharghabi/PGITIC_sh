@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "upperbodygui")
+set(upperbodygui_MAINTAINER "gholeydoon <gholeydoon@todo.todo>")
+set(upperbodygui_DEPRECATED "")
+set(upperbodygui_VERSION "0.0.0")
+set(upperbodygui_BUILD_DEPENDS "cv_bridge" "image_transport" "roscpp" "rospy" "rqt_gui" "rqt_gui_cpp" "sensor_msgs" "upperbodycore_msgs")
+set(upperbodygui_RUN_DEPENDS "cv_bridge" "image_transport" "roscpp" "rospy" "rqt_gui" "rqt_gui_cpp" "sensor_msgs" "upperbodycore_msgs")
+set(upperbodygui_BUILDTOOL_DEPENDS "catkin")

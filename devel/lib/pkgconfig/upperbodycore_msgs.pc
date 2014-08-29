@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/devel
+
+Name: upperbodycore_msgs
+Description: Description of upperbodycore_msgs
+Version: 0.0.0
+Cflags: -I/home/shaghayegh/catkin_ws/devel/include
+Libs: -L/home/shaghayegh/catkin_ws/devel/lib 
+Requires: 

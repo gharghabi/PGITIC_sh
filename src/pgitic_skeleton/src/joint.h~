@@ -1,0 +1,15 @@
+class joint
+{
+	public:
+		static int const jointNum = 15;
+		geometry_msgs::Vector3 position[jointNum];
+		geometry_msgs::Quaternion orientation[jointNum];
+		std::string name[jointNum];
+		float confidence[jointNum];
+	joint::joint()
+	{
+		for(int i=0;i<jointNum;++i)
+		
+	}
+
+};

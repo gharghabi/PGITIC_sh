@@ -1,0 +1,6 @@
+bool request_tr
+bool nearest
+bool id_tr_flag
+int32 id_tr
+---
+bool resule

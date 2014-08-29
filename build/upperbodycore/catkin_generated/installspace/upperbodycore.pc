@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/install
+
+Name: upperbodycore
+Description: Description of upperbodycore
+Version: 0.0.1
+Cflags: -I/home/shaghayegh/catkin_ws/install/include
+Libs: -L/home/shaghayegh/catkin_ws/install/lib 
+Requires: message_runtime

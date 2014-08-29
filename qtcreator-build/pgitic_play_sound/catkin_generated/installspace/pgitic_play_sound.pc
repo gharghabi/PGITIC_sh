@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pgitic_play_sound
+Description: Description of pgitic_play_sound
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

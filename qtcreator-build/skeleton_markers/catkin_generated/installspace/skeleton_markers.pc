@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: skeleton_markers
+Description: Description of skeleton_markers
+Version: 0.4.1
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: rospy roscpp message_runtime openni_camera openni_tracker tf visualization_msgs std_msgs geometry_msgs upperbodycore_msgs

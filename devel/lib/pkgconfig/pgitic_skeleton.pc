@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/devel
+
+Name: pgitic_skeleton
+Description: Description of pgitic_skeleton
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shaghayegh/catkin_ws/devel/lib 
+Requires: 

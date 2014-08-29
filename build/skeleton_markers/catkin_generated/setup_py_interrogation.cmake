@@ -1,0 +1,6 @@
+set(skeleton_markers_SETUP_PY_VERSION "0.4.1")
+set(skeleton_markers_SETUP_PY_SCRIPTS "")
+set(skeleton_markers_SETUP_PY_PACKAGES "skeleton_markers")
+set(skeleton_markers_SETUP_PY_PACKAGE_DIRS "src/skeleton_markers")
+set(skeleton_markers_SETUP_PY_MODULES "")
+set(skeleton_markers_SETUP_PY_MODULE_DIRS "")

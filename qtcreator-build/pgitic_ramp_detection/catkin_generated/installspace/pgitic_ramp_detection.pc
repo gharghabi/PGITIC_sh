@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pgitic_ramp_detection
+Description: Description of pgitic_ramp_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

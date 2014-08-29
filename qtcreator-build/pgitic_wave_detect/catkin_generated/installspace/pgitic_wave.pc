@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pgitic_wave
+Description: Description of pgitic_wave
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

@@ -1,0 +1,6 @@
+set(upperbodygui_SETUP_PY_VERSION "0.0.0")
+set(upperbodygui_SETUP_PY_SCRIPTS "")
+set(upperbodygui_SETUP_PY_PACKAGES "upperbodygui")
+set(upperbodygui_SETUP_PY_PACKAGE_DIRS "src/upperbodygui")
+set(upperbodygui_SETUP_PY_MODULES "")
+set(upperbodygui_SETUP_PY_MODULE_DIRS "")

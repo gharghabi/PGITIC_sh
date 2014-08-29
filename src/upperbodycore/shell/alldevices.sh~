@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+cmd=""
+tab="--tab-with-profile=Default"
+
+#Devices
+
+
+cmd+=($tab -e "bash -c 'roslaunch upperbodycore motor.launch'; bash" -t "Dynamixel")
+cmd+=($tab -e "bash -c 'sleep 5; rosrun upperbodycore upperbodycore'; bash" -t "Core")
+cmd+=($tab -e "bash -c 'sleep 2; rosrun pgitic_play_sound play_sound_core'; bash" -t "Sound")
+cmd+=($tab -e "bash -c 'sleep 3; rosrun pgitic_record_motors record_motor'; bash" -t "Recorder")
+cmd+=($tab -e "bash -c 'sleep 3; roslaunch openni_launch openni.launch depth_registration:=true'; bash" -t "Kinect")
+cmd+=($tab -e "bash -c 'sleep 5; rosrun pgitic_face_detection FaceDetectcore'; bash" -t "Face")
+ kill -9 ` ps -ef | grep sample_recordmotor | cut -d "a" -f 1`
+
+
+
+gnome-terminal --working-directory ~/catkin_ws "${cmd[@]}"

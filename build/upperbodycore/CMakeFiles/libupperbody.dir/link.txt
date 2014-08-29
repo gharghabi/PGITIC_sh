@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -Wno-deprecated    -shared -Wl,-soname,liblibupperbody.so -o /home/shaghayegh/catkin_ws/devel/lib/liblibupperbody.so CMakeFiles/libupperbody.dir/src/upperbodyclient.cpp.o 

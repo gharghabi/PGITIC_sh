@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/qtcreator-build/devel
+
+Name: upperbodygui
+Description: Description of upperbodygui
+Version: 0.0.0
+Cflags: -I/home/shaghayegh/catkin_ws/src/upperbodygui/include -I/home/shaghayegh/catkin_ws/qtcreator-build/upperbodygui
+Libs: -L/home/shaghayegh/catkin_ws/qtcreator-build/devel/lib -lupperbodygui
+Requires: rqt_gui rqt_gui_cpp image_transport sensor_msgs cv_bridge upperbodycore_msgs

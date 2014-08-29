@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "skeleton_markers")
+set(skeleton_markers_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(skeleton_markers_DEPRECATED "")
+set(skeleton_markers_VERSION "0.4.1")
+set(skeleton_markers_BUILD_DEPENDS "tf" "orocos_kdl" "message_generation" "visualization_msgs" "std_msgs" "geometry_msgs" "openni_camera" "openni_tracker" "glut" "libxmu-dev" "libxi-dev" "rospy" "roscpp" "upperbodycore_msgs")
+set(skeleton_markers_RUN_DEPENDS "orocos_kdl" "message_runtime" "visualization_msgs" "std_msgs" "geometry_msgs" "tf" "openni_camera" "openni_tracker" "rospy" "roscpp" "upperbodycore_msgs")
+set(skeleton_markers_BUILDTOOL_DEPENDS "catkin")

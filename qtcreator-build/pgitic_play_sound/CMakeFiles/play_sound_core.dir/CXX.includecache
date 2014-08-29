@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shaghayegh/catkin_ws/src/pgitic_play_sound/src/play_sound_core.cpp
+ros/ros.h
+/home/shaghayegh/catkin_ws/src/pgitic_play_sound/src/ros/ros.h
+iostream
+-
+string
+-
+upperbodycore_msgs/sound.h
+-
+boost/thread.hpp
+-
+soundclient.h
+/home/shaghayegh/catkin_ws/src/pgitic_play_sound/src/soundclient.h
+boost/thread.hpp
+-
+
+/home/shaghayegh/catkin_ws/src/pgitic_play_sound/src/soundclient.h
+ros/ros.h
+-
+upperbodycore_msgs/sound.h
+-
+

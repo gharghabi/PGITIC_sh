@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -Wno-deprecated    -shared -Wl,-soname,libserial.so -o ../devel/lib/libserial.so CMakeFiles/serial.dir/src/serial.cpp.o CMakeFiles/serial.dir/src/impl/unix.cpp.o -lrt ../devel/lib/liblibupperbody.so -Wl,-rpath,/home/shaghayegh/catkin_ws/qtcreator-build/devel/lib 

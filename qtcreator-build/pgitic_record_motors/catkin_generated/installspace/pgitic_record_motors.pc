@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pgitic_record_motors
+Description: Description of pgitic_record_motors
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

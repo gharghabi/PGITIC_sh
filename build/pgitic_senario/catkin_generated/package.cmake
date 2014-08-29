@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pgitic_senario")
+set(pgitic_senario_MAINTAINER "PGITIC_vision_skeleton <PGITIC_vision@todo.todo>")
+set(pgitic_senario_DEPRECATED "")
+set(pgitic_senario_VERSION "0.0.0")
+set(pgitic_senario_BUILD_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs" "pcl_conversions" "pcl_ros" "sensor_msgs" "cv_bridge" "image_transport" "upperbodycore_msgs" "pgitic_play_sound" "actionlib" "actionlib_msgs")
+set(pgitic_senario_RUN_DEPENDS "message_runtime" "actionlib" "actionlib_msgs" "image_transport" "cv_bridge" "sensor_msgs" "roscpp" "rospy" "std_msgs" "upperbodycore_msgs" "pgitic_play_sound")
+set(pgitic_senario_BUILDTOOL_DEPENDS "catkin")

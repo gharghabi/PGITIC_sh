@@ -1,0 +1,28 @@
+<library path="lib/libupperbodygui">
+  <class name="pgitic_gui/CameraCalibView" type="pgitic_gui::CameraCalibView" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      An example Python GUI plugin to create a great user interface.
+    </description>
+    <qtgui>
+      
+<!--      <group>
+        <label>Autman</label>
+      </group>
+      <group>
+        <label>Calibration</label>
+      </group>
+-->
+
+     <group>
+        <label>Visualization</label>
+        <icon type="theme">folder</icon>
+        <statustip>Plugins related to visualization.</statustip>
+      </group>
+
+
+      <label>upperbodygui</label>
+      <icon type="theme">image-x-generic</icon>
+      <statustip>Great user interface to provide real value.</statustip>
+    </qtgui>
+  </class>
+</library>

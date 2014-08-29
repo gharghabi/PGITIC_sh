@@ -1,0 +1,16 @@
+int32 right_shoulder_yawm_position
+int32 right_shoulder_pitchm_position
+int32 right_shoulder_roll_position
+int32 right_elbow_pitch_position
+int32 right_elbow_roll_position
+int32 right_wrist_pitch_position
+int32 right_wrist_roll_position
+int32 right_gripper_position
+int32 right_shoulder_yawm_speed
+int32 right_shoulder_pitchm_speed
+int32 right_shoulder_roll_speed
+int32 right_elbow_pitch_speed
+int32 right_elbow_roll_speed
+int32 right_wrist_pitch_speed
+int32 right_wrist_roll_speed
+int32 right_gripper_speed

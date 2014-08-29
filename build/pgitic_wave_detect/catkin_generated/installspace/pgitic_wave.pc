@@ -1,0 +1,8 @@
+prefix=/home/shaghayegh/catkin_ws/install
+
+Name: pgitic_wave
+Description: Description of pgitic_wave
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shaghayegh/catkin_ws/install/lib 
+Requires: 
